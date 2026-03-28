@@ -573,6 +573,120 @@
       "updatedAt": "2026-03-27T00:00:00.000Z"
     },
     {
+      "id": "billz-a0c4a0d1-f6d6-4a1f-9260-6215d31dee36",
+      "externalId": "a0c4a0d1-f6d6-4a1f-9260-6215d31dee36",
+      "source": "billz",
+      "slug": "расческа-для-волос-a0c4a0d1-f6d6-4a1f-9260-6215d31dee36",
+      "title": "РАСЧЕСКА ДЛЯ ВОЛОС",
+      "author": "Не указан",
+      "price": 30000,
+      "oldPrice": null,
+      "rating": 0,
+      "reviewsCount": 0,
+      "stock": 12,
+      "inStock": true,
+      "published": true,
+      "categorySlug": "children",
+      "categoryName": "Детские книги",
+      "language": "Русский",
+      "publisher": "BILLZ 2",
+      "isbn": "6949279100018",
+      "coverType": "Твёрдый переплёт",
+      "pages": 240,
+      "year": 2026,
+      "description": "Описание книги будет дополнено в ближайшее время. Пока можно ориентироваться на основные характеристики и наличие товара.",
+      "summary": "Книга доступна в каталоге BOOKSHOP.",
+      "images": [
+        "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
+      ],
+      "format": "60x90/16",
+      "weight": "—",
+      "featured": {
+        "bestseller": false,
+        "newArrival": true,
+        "collectionSlugs": []
+      },
+      "createdAt": "2026-03-28T14:19:34.354Z",
+      "updatedAt": "2026-03-28 14:07:23",
+      "lastSyncedAt": "2026-03-28T14:19:34.355Z"
+    },
+    {
+      "id": "billz-7f46ca88-5370-4f93-ba2e-43559c4f2445",
+      "externalId": "7f46ca88-5370-4f93-ba2e-43559c4f2445",
+      "source": "billz",
+      "slug": "расческа-ежик-7f46ca88-5370-4f93-ba2e-43559c4f2445",
+      "title": "РАСЧЕСКА ЕЖИК",
+      "author": "Не указан",
+      "price": 30000,
+      "oldPrice": null,
+      "rating": 0,
+      "reviewsCount": 0,
+      "stock": 24,
+      "inStock": true,
+      "published": true,
+      "categorySlug": "children",
+      "categoryName": "Детские книги",
+      "language": "Русский",
+      "publisher": "BILLZ 2",
+      "isbn": "6949279100513",
+      "coverType": "Твёрдый переплёт",
+      "pages": 240,
+      "year": 2026,
+      "description": "Описание книги будет дополнено в ближайшее время. Пока можно ориентироваться на основные характеристики и наличие товара.",
+      "summary": "Книга доступна в каталоге BOOKSHOP.",
+      "images": [
+        "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
+      ],
+      "format": "60x90/16",
+      "weight": "—",
+      "featured": {
+        "bestseller": false,
+        "newArrival": true,
+        "collectionSlugs": []
+      },
+      "createdAt": "2026-03-28T14:19:34.355Z",
+      "updatedAt": "2026-03-28 13:59:16",
+      "lastSyncedAt": "2026-03-28T14:19:34.355Z"
+    },
+    {
+      "id": "billz-affdd91b-c1c6-4612-a765-3779ac3a33de",
+      "externalId": "affdd91b-c1c6-4612-a765-3779ac3a33de",
+      "source": "billz",
+      "slug": "расческа-ежик-affdd91b-c1c6-4612-a765-3779ac3a33de",
+      "title": "РАСЧЕСКА ЕЖИК",
+      "author": "Не указан",
+      "price": 30000,
+      "oldPrice": null,
+      "rating": 0,
+      "reviewsCount": 0,
+      "stock": 12,
+      "inStock": true,
+      "published": true,
+      "categorySlug": "children",
+      "categoryName": "Детские книги",
+      "language": "Русский",
+      "publisher": "BILLZ 2",
+      "isbn": "6920102486103",
+      "coverType": "Твёрдый переплёт",
+      "pages": 240,
+      "year": 2026,
+      "description": "Описание книги будет дополнено в ближайшее время. Пока можно ориентироваться на основные характеристики и наличие товара.",
+      "summary": "Книга доступна в каталоге BOOKSHOP.",
+      "images": [
+        "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
+      ],
+      "format": "60x90/16",
+      "weight": "—",
+      "featured": {
+        "bestseller": false,
+        "newArrival": true,
+        "collectionSlugs": []
+      },
+      "createdAt": "2026-03-28T14:19:34.355Z",
+      "updatedAt": "2026-03-28 13:57:24",
+      "lastSyncedAt": "2026-03-28T14:19:34.356Z"
+    },
+    {
       "id": "billz-f6ff0a8e-4f27-4467-b6bb-6fc634b5e40a",
       "externalId": "f6ff0a8e-4f27-4467-b6bb-6fc634b5e40a",
       "source": "billz",
@@ -608,7 +722,7 @@
       },
       "createdAt": "2026-03-28T10:02:44.431Z",
       "updatedAt": "2026-03-28 08:56:27",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-bec430ea-fc7a-46da-8261-137e7ab022d2",
@@ -646,7 +760,7 @@
       },
       "createdAt": "2026-03-28T10:02:44.432Z",
       "updatedAt": "2026-03-28 08:49:29",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-e419ba2e-acc7-46fd-997a-a1c8adecda0f",
@@ -684,7 +798,7 @@
       },
       "createdAt": "2026-03-28T10:02:44.432Z",
       "updatedAt": "2026-03-28 06:40:50",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-4fa89002-1394-46dc-bf3c-ca0f3529d0b0",
@@ -722,7 +836,7 @@
       },
       "createdAt": "2026-03-28T10:02:44.433Z",
       "updatedAt": "2026-03-28 06:34:28",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-1d0349e7-03e9-4ec9-b319-df39ac00d91f",
@@ -760,7 +874,7 @@
       },
       "createdAt": "2026-03-28T10:02:44.433Z",
       "updatedAt": "2026-03-28 06:28:03",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-757ebf8c-ab1d-456a-857b-0df547d8b798",
@@ -798,7 +912,7 @@
       },
       "createdAt": "2026-03-28T10:02:44.434Z",
       "updatedAt": "2026-03-28 06:24:33",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-0882a076-34d8-4f5f-925f-a2d26ac7a574",
@@ -836,7 +950,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-27 12:24:26",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-0c2f46b7-950e-4dbd-8a59-bd91f886be53",
@@ -874,7 +988,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 12:53:01",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-59c6c551-1e72-4e5e-a715-b47083880395",
@@ -912,7 +1026,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 06:58:29",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-bdc59403-4f34-4385-b05b-e90ca41d7021",
@@ -950,7 +1064,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 06:34:33",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-5a6d74f4-800b-450b-8a3f-16d4adabf0c6",
@@ -988,7 +1102,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 06:16:14",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-6cebc740-4ac7-4256-9b2c-371a2eec3542",
@@ -1026,7 +1140,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 06:13:18",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-5af6e3c4-3f05-4bc4-ad43-df31269dd9f2",
@@ -1064,7 +1178,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 06:03:47",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-026f2a1a-f063-4989-ab66-1231dae4938a",
@@ -1102,7 +1216,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-27 05:44:18",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-bbc25435-ffcb-4f01-8240-1bab5d1a4ecc",
@@ -1140,7 +1254,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-27 05:44:18",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-a9b18b56-a3c1-4303-8645-f1b82d73e4db",
@@ -1178,7 +1292,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-24 06:36:14",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-b7838be2-a417-491e-a6f8-a889425fbe7b",
@@ -1216,7 +1330,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-24 06:34:34",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-a076c9f1-de71-492d-8cd3-152fcbf61dd4",
@@ -1254,7 +1368,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-24 06:32:16",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-34563d52-96a7-4f60-923e-c4d1de9a8acc",
@@ -1292,7 +1406,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-22 07:23:15",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-9f0f9f90-e68d-48f4-abc1-8dc02f4c4c3e",
@@ -1330,7 +1444,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-18 09:57:53",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-7b543adb-ff46-492a-8d8c-bf254ff3512d",
@@ -1368,7 +1482,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-18 09:57:16",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-725f46b4-dbd5-483b-8d39-8d0d608c988c",
@@ -1406,7 +1520,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-18 06:08:38",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-891f175d-af75-4023-805d-d81c54335942",
@@ -1444,7 +1558,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-18 06:05:43",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-cef2cf22-3fae-49d5-b73c-79e3ee623402",
@@ -1482,7 +1596,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-18 05:49:39",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-94fb3cd7-0601-41ef-ba70-0cd8f5e075e9",
@@ -1520,7 +1634,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-18 05:44:58",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-180dcf93-64f6-4989-8784-bd3eecdd3e5c",
@@ -1558,7 +1672,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-18 05:42:40",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-d5758c26-7c69-43f4-b2da-8ad76aabc763",
@@ -1596,7 +1710,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-18 05:38:48",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-f909d3ee-781a-4509-857c-b5a1b3c972aa",
@@ -1634,7 +1748,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-16 09:40:54",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-ea49dcff-5219-405b-b307-3586baf5e081",
@@ -1672,7 +1786,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-27 11:50:33",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-cfe56f92-751b-4540-a9cf-d653f3f1ec2f",
@@ -1710,7 +1824,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-16 12:21:19",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-eb12e192-0cd4-40eb-968d-8ce4de1441c5",
@@ -1748,7 +1862,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 09:21:29",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-1aaa3a3a-f9ef-44c5-b961-b93c06e27b94",
@@ -1786,7 +1900,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 18:49:29",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-964d43af-8693-45ec-a0e0-4a2f0c517399",
@@ -1824,7 +1938,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 07:30:06",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-1c1162ee-beb1-4e2b-aee9-acef21faece6",
@@ -1862,7 +1976,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 14:20:06",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-6a9a6e58-7345-40d0-890c-d9d3261483d9",
@@ -1900,7 +2014,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-22 12:21:24",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-24052588-025d-4528-992e-e1a7d26efc59",
@@ -1938,7 +2052,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 14:10:49",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.371Z"
     },
     {
       "id": "billz-b4bb8f1b-a9f0-4aa2-85b2-e7442dc6a023",
@@ -1976,7 +2090,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 14:06:36",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-a7aa70b4-a39a-4711-94c6-da4505d7d724",
@@ -2014,7 +2128,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 14:03:31",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-a6ca4711-7cf3-482e-9055-d94d9d3fd748",
@@ -2052,7 +2166,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 13:21:54",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-b78f1da4-2dde-44a5-9f57-c9131e81257c",
@@ -2090,7 +2204,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 13:17:13",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-18be1511-0530-4f68-b4a1-0280d4b35d32",
@@ -2128,7 +2242,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-22 13:24:21",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-5aef9e1e-4df9-4efc-b51e-49792ff6bcc3",
@@ -2166,7 +2280,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 09:08:33",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-76537afb-a4f9-4727-9845-0b4e78c2f3ab",
@@ -2204,7 +2318,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-27 06:02:07",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-9331eb6a-cfd0-4182-a49b-f58290c50792",
@@ -2242,7 +2356,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 07:30:06",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-7f045375-0b50-49f0-8007-095155146a8f",
@@ -2280,7 +2394,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-22 11:25:23",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-a45ec8d9-2202-4f56-a524-3fc461f373a1",
@@ -2318,7 +2432,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 12:24:57",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-813d0406-7111-4149-b2c4-eb25b885cbae",
@@ -2356,7 +2470,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 12:22:31",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-4f493dba-eb4b-4891-81ff-6988381ae7c8",
@@ -2394,7 +2508,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-24 15:18:50",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-2aef8995-1c05-436e-8c92-829ba755e838",
@@ -2432,7 +2546,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 12:18:51",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-cfa68db9-ef0d-40ea-8a8b-4c878d1224ef",
@@ -2470,7 +2584,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 12:12:15",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-c4364535-50ce-4202-a7d0-294ab67bb2c3",
@@ -2508,7 +2622,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:59:28",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-96ac21cb-164c-44cb-bb76-f7b97479098d",
@@ -2546,7 +2660,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:58:01",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-820c20af-5b46-485e-984b-1e6b30564fde",
@@ -2584,7 +2698,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:57:03",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-e2885407-696e-42cf-991a-3b3c9f0ce297",
@@ -2622,7 +2736,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:55:54",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-e10ace57-d399-4044-9340-cef2d034151a",
@@ -2660,7 +2774,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:53:37",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-7465577c-c25e-40fd-8d5a-5fed2a48b48d",
@@ -2698,7 +2812,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:51:27",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-a3d96df1-e8bc-4041-a92e-80a432c3f50c",
@@ -2736,7 +2850,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:47:45",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-a5dacaf9-d6a1-4ccd-9340-ad39ae7a6138",
@@ -2774,7 +2888,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:45:44",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-9756dba3-17d7-4e42-b111-744c1f526a3a",
@@ -2812,7 +2926,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:43:31",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-882fff4f-f7f6-46a0-ae86-50570fd746f8",
@@ -2850,7 +2964,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:42:20",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-4ded8b7e-d856-4e97-81c8-7910757eb390",
@@ -2888,7 +3002,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 09:08:19",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-681b063b-7a96-4e57-986d-99a7db4bada4",
@@ -2926,7 +3040,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:36:55",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-923605af-f90a-4749-9753-ed9830141545",
@@ -2964,7 +3078,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 11:33:16",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-e80142d0-e0e5-4446-af9c-2a3ee01a7000",
@@ -3002,7 +3116,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 11:32:36",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-a0e0fe72-9f5b-40d3-a881-80c088f43af2",
@@ -3040,7 +3154,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-19 12:22:31",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-fe802c5d-b085-4e79-8b3d-b8a6df18da2d",
@@ -3078,7 +3192,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-24 07:44:00",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-4ad77711-a32a-475c-8364-eac4279a125c",
@@ -3116,7 +3230,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 13:06:21",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-3bb07ca2-c5c7-41b3-ad27-b91cd2774ed9",
@@ -3154,7 +3268,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-24 08:09:42",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-f4b98e6c-53dc-4342-af80-51300358d138",
@@ -3192,7 +3306,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 10:24:28",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-31eee0e8-bc7d-4570-96b5-4fff059e39cf",
@@ -3230,7 +3344,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-27 12:59:46",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-1f868744-8a36-49f1-ad1a-b6cf3684d6e5",
@@ -3268,7 +3382,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-15 10:57:01",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-2e0e7810-6dad-43a4-ad0a-5627fac8cc71",
@@ -3306,7 +3420,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 10:10:37",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-8805bd6a-5a23-4eb3-8639-ae20f090a5f0",
@@ -3344,7 +3458,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 10:02:57",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-ef3c7a62-0f2f-41ab-9d9d-6b579e2b7260",
@@ -3382,7 +3496,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-24 15:04:10",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-a5563c5e-e8ab-415b-81c1-b69e56f5ee8a",
@@ -3420,7 +3534,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 09:54:27",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-3fe477c4-0f2d-433d-b4b5-c57a7a3109e8",
@@ -3458,7 +3572,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 09:43:14",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-f2b781af-fc96-46ef-8bfb-6aaef388ebf6",
@@ -3496,7 +3610,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 09:44:15",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-bf647278-66fb-4305-82cb-6426fcff2c89",
@@ -3534,7 +3648,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 09:33:32",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-d40bbaa9-24c8-48f9-a7b7-aac68161374a",
@@ -3572,7 +3686,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 09:40:33",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-053c78ad-2877-4453-aaf6-a9c0a7724058",
@@ -3610,7 +3724,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 09:18:08",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-80fab46e-29f8-4d04-88c2-6b81f741ec93",
@@ -3648,7 +3762,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-22 07:46:00",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-d7ab8593-75ee-498a-ad7a-e7927573facd",
@@ -3686,7 +3800,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-26 11:11:32",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-1f5fc538-02e2-428f-a9c7-38e612f40827",
@@ -3724,7 +3838,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 08:44:41",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-b8ed52ee-33fb-4b1b-bcd3-6d1ae0777241",
@@ -3762,7 +3876,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-15 08:46:08",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-179f4911-ad7a-4609-b954-56fe342b6ddb",
@@ -3800,7 +3914,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 12:03:58",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-9192e033-5042-4a4e-be0f-7fe7829871ce",
@@ -3838,7 +3952,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-14 08:18:44",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-bd842699-14ad-44cc-8552-7ced8387fe46",
@@ -3851,7 +3965,7 @@
       "oldPrice": null,
       "rating": 0,
       "reviewsCount": 0,
-      "stock": 1674,
+      "stock": 1673,
       "inStock": true,
       "published": true,
       "categorySlug": "children",
@@ -3875,8 +3989,8 @@
         "collectionSlugs": []
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
-      "updatedAt": "2026-03-28 11:01:53",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "updatedAt": "2026-03-28 13:25:08",
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-ab06bf2d-e3e4-45ad-aa60-a75809db067f",
@@ -3889,7 +4003,7 @@
       "oldPrice": null,
       "rating": 0,
       "reviewsCount": 0,
-      "stock": 20,
+      "stock": 19,
       "inStock": true,
       "published": true,
       "categorySlug": "children",
@@ -3913,8 +4027,8 @@
         "collectionSlugs": []
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
-      "updatedAt": "2026-03-22 12:31:01",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "updatedAt": "2026-03-28 12:29:55",
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-836b1216-2640-42bc-8e44-3b47451d4005",
@@ -3952,7 +4066,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-27 11:50:34",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-a0c5a29c-8fcc-47d1-a04f-d58e75fe31cb",
@@ -3990,7 +4104,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-15 12:14:57",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-6f5fa9ec-8241-4a9f-8f39-4b294e41969c",
@@ -4028,7 +4142,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-13 17:01:18",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-7ad6e644-677a-4f26-ab75-5eab8c06808e",
@@ -4066,7 +4180,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-21 10:47:38",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-425a88bf-ee55-4927-ba19-2c58118fc0b4",
@@ -4104,7 +4218,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-13 16:24:45",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-88c0b7c8-d24c-40d9-bc6c-d5fc853c5932",
@@ -4142,7 +4256,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-13 16:21:54",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-21cc0531-a136-4ee7-a1d9-cadc5ad133ab",
@@ -4180,7 +4294,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-13 16:17:36",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-a078acdd-62b8-4a44-b487-cbcf0b773847",
@@ -4218,7 +4332,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-13 16:14:47",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     },
     {
       "id": "billz-232aab36-614c-4380-bf40-9035c063149c",
@@ -4256,121 +4370,7 @@
       },
       "createdAt": "2026-03-27T00:00:00.000Z",
       "updatedAt": "2026-03-13 08:49:51",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
-    },
-    {
-      "id": "billz-171ce20b-aa8c-43b1-8bf3-f631c42e95d2",
-      "externalId": "171ce20b-aa8c-43b1-8bf3-f631c42e95d2",
-      "source": "billz",
-      "slug": "надежда-жукова-пропись-1-2-3-171ce20b-aa8c-43b1-8bf3-f631c42e95d2",
-      "title": "НАДЕЖДА ЖУКОВА ПРОПИСЬ 1,2,3",
-      "author": "Не указан",
-      "price": 30000,
-      "oldPrice": null,
-      "rating": 0,
-      "reviewsCount": 0,
-      "stock": 10,
-      "inStock": true,
-      "published": true,
-      "categorySlug": "children",
-      "categoryName": "Детские книги",
-      "language": "Русский",
-      "publisher": "BILLZ 2",
-      "isbn": "2000000102269",
-      "coverType": "Твёрдый переплёт",
-      "pages": 240,
-      "year": 2026,
-      "description": "Описание книги будет дополнено в ближайшее время. Пока можно ориентироваться на основные характеристики и наличие товара.",
-      "summary": "Книга доступна в каталоге BOOKSHOP.",
-      "images": [
-        "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
-      ],
-      "format": "60x90/16",
-      "weight": "—",
-      "featured": {
-        "bestseller": false,
-        "newArrival": true,
-        "collectionSlugs": []
-      },
-      "createdAt": "2026-03-27T00:00:00.000Z",
-      "updatedAt": "2026-03-13 08:46:16",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
-    },
-    {
-      "id": "billz-fc133ff1-c599-4465-b549-1b16815e2aca",
-      "externalId": "fc133ff1-c599-4465-b549-1b16815e2aca",
-      "source": "billz",
-      "slug": "headway-pre-intermediate-5th-edition-fc133ff1-c599-4465-b549-1b16815e2aca",
-      "title": "Headway pre-intermediate 5th edition",
-      "author": "Не указан",
-      "price": 100000,
-      "oldPrice": null,
-      "rating": 0,
-      "reviewsCount": 0,
-      "stock": 1,
-      "inStock": true,
-      "published": true,
-      "categorySlug": "children",
-      "categoryName": "Детские книги",
-      "language": "Русский",
-      "publisher": "BILLZ 2",
-      "isbn": "2000000102252",
-      "coverType": "Твёрдый переплёт",
-      "pages": 240,
-      "year": 2026,
-      "description": "Описание книги будет дополнено в ближайшее время. Пока можно ориентироваться на основные характеристики и наличие товара.",
-      "summary": "Книга доступна в каталоге BOOKSHOP.",
-      "images": [
-        "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
-      ],
-      "format": "60x90/16",
-      "weight": "—",
-      "featured": {
-        "bestseller": false,
-        "newArrival": true,
-        "collectionSlugs": []
-      },
-      "createdAt": "2026-03-27T00:00:00.000Z",
-      "updatedAt": "2026-03-13 08:40:20",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
-    },
-    {
-      "id": "billz-3d12df10-ec38-46d1-b1d7-0addb07b7205",
-      "externalId": "3d12df10-ec38-46d1-b1d7-0addb07b7205",
-      "source": "billz",
-      "slug": "ибн-атоуллох-сакандарий-калб-зийнати-3d12df10-ec38-46d1-b1d7-0addb07b7205",
-      "title": "ИБН АТОУЛЛОХ САКАНДАРИЙ. КАЛБ ЗИЙНАТИ",
-      "author": "Не указан",
-      "price": 75000,
-      "oldPrice": null,
-      "rating": 0,
-      "reviewsCount": 0,
-      "stock": 2,
-      "inStock": true,
-      "published": true,
-      "categorySlug": "children",
-      "categoryName": "Детские книги",
-      "language": "Русский",
-      "publisher": "BILLZ 2",
-      "isbn": "9789910825910",
-      "coverType": "Твёрдый переплёт",
-      "pages": 240,
-      "year": 2026,
-      "description": "Описание книги будет дополнено в ближайшее время. Пока можно ориентироваться на основные характеристики и наличие товара.",
-      "summary": "Книга доступна в каталоге BOOKSHOP.",
-      "images": [
-        "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=900&q=80"
-      ],
-      "format": "60x90/16",
-      "weight": "—",
-      "featured": {
-        "bestseller": false,
-        "newArrival": true,
-        "collectionSlugs": []
-      },
-      "createdAt": "2026-03-27T00:00:00.000Z",
-      "updatedAt": "2026-03-13 07:06:37",
-      "lastSyncedAt": "2026-03-28T11:55:51.991Z"
+      "lastSyncedAt": "2026-03-28T14:19:34.372Z"
     }
   ],
   "collections": [
@@ -4787,17 +4787,19 @@
       "email": "skryd1x@gmail.com",
       "passwordHash": "5dce833a2fd293ade9217aef:aa8a4f42b240a725c945ccbf7b02261f4762d07ea45e06f577dfa2c89ae60db799b27bcf728a4e84b6bf46bd4d2f91b1e8e33dc781f11781b7248036a4c6c3a0",
       "role": "customer",
-      "firstName": "skryd1x@gmail.com",
-      "lastName": "skryd1x@gmail.com",
+      "firstName": "Амаль ",
+      "lastName": "Шлюха",
       "phone": "",
       "city": "Tashkent",
       "birthDate": "",
-      "gender": "",
+      "gender": "male",
       "avatar": "",
       "createdAt": "2026-03-26T21:58:07.175Z",
       "favoriteIds": [
-        "billz-94fb3cd7-0601-41ef-ba70-0cd8f5e075e9"
-      ]
+        "billz-94fb3cd7-0601-41ef-ba70-0cd8f5e075e9",
+        "billz-923605af-f90a-4749-9753-ed9830141545"
+      ],
+      "addressLine": ""
     }
   ],
   "orders": [
