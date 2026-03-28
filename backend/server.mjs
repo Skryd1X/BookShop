@@ -99,6 +99,65 @@ const env = {
   MONGO_ONLY: parseBoolean(process.env.MONGO_ONLY, Boolean(process.env.MONGODB_URI)),
 };
 
+function getRequestOrigin(req) {
+  return String(req.headers.origin || "").trim();
+}
+
+function appendVaryHeader(res, value) {
+  const current = String(res.getHeader("Vary") || "").trim();
+  if (!current) {
+    res.setHeader("Vary", value);
+    return;
+  }
+  const values = current
+    .split(",")
+    .map((item) => item.trim())
+    .filter(Boolean);
+
+  if (!values.includes(value)) {
+    values.push(value);
+    res.setHeader("Vary", values.join(", "));
+  }
+}
+
+function buildCorsHeaders(req) {
+  const requestOrigin = getRequestOrigin(req);
+  const requestedHeaders = String(req.headers["access-control-request-headers"] || "").trim();
+
+  const allowHeaders = requestedHeaders || [
+    "Content-Type",
+    "Authorization",
+    "ngrok-skip-browser-warning",
+    "X-Requested-With",
+    "Accept",
+    "Origin",
+  ].join(", ");
+
+  const headers = {
+    "Access-Control-Allow-Origin": requestOrigin || "*",
+    "Access-Control-Allow-Methods": "GET,POST,PUT,PATCH,DELETE,OPTIONS",
+    "Access-Control-Allow-Headers": allowHeaders,
+    "Access-Control-Expose-Headers": "Content-Type, Authorization",
+    "Access-Control-Max-Age": "86400",
+  };
+
+  if (String(req.headers["access-control-request-private-network"] || "").toLowerCase() === "true") {
+    headers["Access-Control-Allow-Private-Network"] = "true";
+  }
+
+  return headers;
+}
+
+function applyCors(req, res) {
+  const headers = buildCorsHeaders(req);
+  for (const [key, value] of Object.entries(headers)) {
+    res.setHeader(key, value);
+  }
+  appendVaryHeader(res, "Origin");
+  appendVaryHeader(res, "Access-Control-Request-Headers");
+  appendVaryHeader(res, "Access-Control-Request-Method");
+}
+
 const billzTokenCache = {
   value: "",
   exp: 0,
@@ -767,22 +826,18 @@ async function saveDb(db) {
 }
 
 function sendJson(res, status, payload) {
-  res.writeHead(status, {
-    "Content-Type": "application/json; charset=utf-8",
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Headers": "Content-Type, Authorization",
-    "Access-Control-Allow-Methods": "GET,POST,PUT,PATCH,DELETE,OPTIONS",
-  });
+  if (!res.headersSent) {
+    res.statusCode = status;
+    res.setHeader("Content-Type", "application/json; charset=utf-8");
+  }
   res.end(JSON.stringify(payload));
 }
 
 function sendText(res, status, text, contentType = "text/plain; charset=utf-8") {
-  res.writeHead(status, {
-    "Content-Type": contentType,
-    "Access-Control-Allow-Origin": "*",
-    "Access-Control-Allow-Headers": "Content-Type, Authorization",
-    "Access-Control-Allow-Methods": "GET,POST,PUT,PATCH,DELETE,OPTIONS",
-  });
+  if (!res.headersSent) {
+    res.statusCode = status;
+    res.setHeader("Content-Type", contentType);
+  }
   res.end(text);
 }
 
@@ -1880,10 +1935,6 @@ function createProfileFromUser(user) {
 }
 
 async function handle(req, res) {
-  if (req.method === "OPTIONS") {
-    sendJson(res, 200, { ok: true });
-    return;
-  }
 
   const url = new URL(req.url, env.APP_BASE_URL);
   const pathname = url.pathname;
@@ -2691,8 +2742,27 @@ async function handle(req, res) {
 }
 
 const server = createServer((req, res) => {
+  applyCors(req, res);
+
+  if (req.method === "OPTIONS") {
+    res.writeHead(204);
+    res.end();
+    return;
+  }
+
   handle(req, res).catch((error) => {
-    sendJson(res, 500, { message: error instanceof Error ? error.message : "Unexpected error" });
+    console.error("[HTTP ERROR]", error instanceof Error ? error.stack || error.message : error);
+
+    if (!res.headersSent) {
+      sendJson(res, 500, {
+        message: error instanceof Error ? error.message : "Unexpected error",
+      });
+      return;
+    }
+
+    try {
+      res.end();
+    } catch {}
   });
 });
 
